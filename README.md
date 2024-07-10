@@ -7,9 +7,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alex - Java" height="30" width="40" 
+  <img align="center" alt="Alex - Java" height="40" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Alex-py" height="30" width="40" 
+  <img align="center" alt="Alex-py" height="40" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 </div>
   
